@@ -6,7 +6,12 @@ The Home page File selection option is not been developed yet
 
 ![image](https://github.com/user-attachments/assets/bff5acba-2d1c-48b0-ab9f-aac163a37cc5)
 
-The Home page File selection option is not been developed yet
+The Text Highlighing is not working properly it needs to be fixed
 
 ![image](https://github.com/user-attachments/assets/b84331cc-4e94-4e78-81e2-dbb0e0de5af1)
 
+Options Like Hiding Terminal and side-bar are working 
+
+![image](https://github.com/user-attachments/assets/7e7871bb-69aa-4229-bb3d-fee317b38402)
+
+Python Code Written in the Text Area is Executable
