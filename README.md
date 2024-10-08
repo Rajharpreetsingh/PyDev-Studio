@@ -1,4 +1,4 @@
-# PyDev-Studio is a simple Integrated Development Environment (IDE) specifically designed for Python development. It offers all the basic features of a basic ide , Created by Rajharpreet singh . It is still under development it has some issues with text highlighting.
+# PyDev-Studio is a simple Integrated Development Environment (IDE) specifically designed for Python development. It offers all the basic features of a basic ide . It is still under development it has some issues with text highlighting.
 
 ![image](https://github.com/user-attachments/assets/dd1aa6d9-2b9e-48f2-9990-99b5086d37e2)
 
